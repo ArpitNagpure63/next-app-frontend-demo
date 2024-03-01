@@ -1,0 +1,15 @@
+.maincontainer {
+  margin: 20px;
+}
+
+.mainsubcontainer {
+  margin: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.heading {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 40px;
+}

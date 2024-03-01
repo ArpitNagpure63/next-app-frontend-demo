@@ -1,0 +1,25 @@
+.students-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 20px;
+}
+
+.students-heading {
+    display: flex;
+    justify-content: center;
+    margin: 20px 40px;
+}
+
+.students-list {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+.students-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

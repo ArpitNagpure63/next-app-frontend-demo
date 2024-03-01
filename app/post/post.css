@@ -1,0 +1,11 @@
+.common-layout-container {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+.common-layout-children-container {
+    display: flex;
+    justify-content: center;
+    margin: 30px 20px;
+}
